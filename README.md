@@ -87,3 +87,8 @@ I created Excel Interactive Dashboard with the following Components:
 3.	**Route Optimization:** Consider re-evaluating the routes with high delays. Traffic analysis, timely deliveries and other factors can also be assessed to optimize routes.
 4.	**Vehicle Allocation:** Reassess the use of "Bike C" for deliveries, especially if they are used for longer routes or bulk deliveries.
 5.	**Enhance Customer communication:** Given the feedback, enhancing the communication channel with customers regarding their status of their orders, expected delays or any other concern can help improve satisfaction.
+
+### Project Done By:
+**Wilson Gitonga**
+
+www.wilsongitonga.com
